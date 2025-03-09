@@ -1,0 +1,59 @@
+
+body{
+    background-color: green;
+}
+
+h1{
+    color: aquamarine;
+    font-size: 30px;
+    text-align:start;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+p {
+    color: cyan;
+    font-size: medium;
+    text-align: inherit;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: greenyellow;
+    font-size: medium;
+    text-align:left;
+}
+.FunFacts{
+    border: 10px;
+    background-color: greenyellow;
+    text-align: right;
+    height: 5cm;
+    width: 200px;
+
+}
+
+a{
+    font-family: cursive;
+    color: yellowgreen;
+    
+
+}
+h5{
+    font-family: cursive;
+    color: crimson;
+    text-align: left;
+    text-size-adjust: 10px;
+}
+h6{
+    color:crimson;
+    font-family: cursive;
+    text-align: left;
+    text-size-adjust: 5px;
+
+}
+h7{
+    color:crimson;
+    font-family: cursive;
+    text-align: left;
+    text-size-adjust: 5px;
+
+}
